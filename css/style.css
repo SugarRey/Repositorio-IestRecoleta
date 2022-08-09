@@ -1,0 +1,43 @@
+
+*{
+   padding: 0;
+   margin: 0;
+}
+.cont-principal {
+   width: 1024px;
+   margin: 0 auto;
+   height: 100%;
+}
+
+.content-header{
+   height: 200px;
+}
+.navegacion {
+   height: 100px;
+   width: 100%;
+   background-color: #FDBE33;
+}
+.nav{
+   display: flex;
+}
+.nav-logo {
+   width: 25%;
+}
+.contenido__menu-navegacion{
+   width: 75%;
+}
+header .contenido__menu-navegacion nav{
+   float: right;
+   border: 1px solid red;
+}
+.menu-navegacion ul li{
+   display:inline;
+
+}
+
+
+
+.contennt-metadata{
+   height: 50px;
+   background-color: #1F4794;
+}
