@@ -2,6 +2,7 @@
 *{
    padding: 0;
    margin: 0;
+   box-sizing: border-box;
 }
 .cont-principal {
    width: 1024px;
@@ -22,17 +23,45 @@
 }
 .nav-logo {
    width: 25%;
+   display: flex;
 }
+.nav-logo img{
+   width: 60px;
+   margin: auto 0;
+}
+.nav-logo .contenido-titulo{
+   padding: 25px;
+}
+.nav-logo .contenido-titulo label{
+   font-size: 25px;
+   font-weight: bold;
+}
+
+
 .contenido__menu-navegacion{
    width: 75%;
-}
-header .contenido__menu-navegacion nav{
-   float: right;
    border: 1px solid red;
+}
+.menu-navegacion{
+   height: auto;
+   border: 1px solid red;
+   margin: auto 0;
+}
+
+.menu-navegacion p{
+   float: right; 
+
+}
+.menu-navegacion ul{
+   float: right;
 }
 .menu-navegacion ul li{
    display:inline;
-
+   border: 1px solid red;
+   padding-left:3px;
+   padding-right:3px;
+   
+   vertical-align: top;
 }
 
 
