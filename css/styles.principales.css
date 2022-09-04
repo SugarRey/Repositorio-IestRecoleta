@@ -1,0 +1,20 @@
+:root{
+   --color-principal: #FDBE33;
+}
+
+
+.cont-principal {
+   width: 1024px;
+   margin: 0 auto;
+   height: 100%;
+   /* border: 1px solid green; */
+}
+body {
+   font-family: 'Fira Sans', sans-serif;
+   /* font-family: 'Quicksand', sans-serif; */
+}
+
+a{
+   text-decoration: none;
+   cursor: pointer;
+}
