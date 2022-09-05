@@ -1,8 +1,14 @@
 :root{
    --color-principal: #FDBE33;
+
+   --color-text: #030F27;
 }
 
-
+*{
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
 .cont-principal {
    width: 1024px;
    margin: 0 auto;
