@@ -62,8 +62,30 @@
 
 
 
-
+/* Seccion del ruteador y el buscador */
 .contennt-metadata{
    height: 50px;
    background-color: #1F4794;
+}
+.contennt-metadata .cont-principal{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+.ruteador, .buscador-nav{
+   display: flex;
+   align-items: center;
+   color: #fff;
+   font-size: 14px;
+}
+.cont-principal img{
+   height: 30px;
+   padding: 5px;
+}
+.buscador-nav{
+   width: auto;
+   border: 1px solid #fff;
+   border-radius: 20px;
+   padding-left: 10px;
+   background-color: #fff;
 }
