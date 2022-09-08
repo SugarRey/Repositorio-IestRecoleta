@@ -104,5 +104,36 @@
 /* Section del slides de imagenes  */
 .contain-slider img{
    width: 100%;
-   
+}
+
+
+.contain-busqueda{
+   background-color: #F5F7FC;
+   border-radius: 4px;
+   border: 1px solid #D7D8D9;
+   padding: 30px;
+
+}
+.contain-busqueda .contain-buscar{
+   display: flex;
+   justify-content: space-between; 
+   border: 1px solid var(--color-principal);
+   border-radius: 4px;
+   margin: 40px 0 20px 0;
+   align-items: center;
+   background-color: #fff;
+}
+.contain-buscar p{
+   padding-left: 10px;
+   padding-right: 10px;
+   border-right: 1px solid #D7D8D9;
+}
+.contain-buscar input{
+   width: 780px;
+   height: 35px;
+   border: none;
+}
+.contain-buscar img{
+   height: 20px;
+   padding-right: 10px;
 }
