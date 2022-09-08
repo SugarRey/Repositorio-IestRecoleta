@@ -97,3 +97,12 @@
 .buscador-nav img{
    padding-right: 10px;
 }
+
+
+/* Secion del main */
+
+/* Section del slides de imagenes  */
+.contain-slider img{
+   width: 100%;
+   
+}

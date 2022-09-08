@@ -10,11 +10,17 @@
    box-sizing: border-box;
 }
 .cont-principal {
-   width: 1024px;
+   width: 1140px;
    margin: 0 auto;
    height: 100%;
    /* border: 1px solid green; */
 }
+.main-contain{
+   width: 1024px;
+   margin: 0 auto;
+   height: 100%;
+}
+
 body {
    font-family: 'Fira Sans', sans-serif;
    /* font-family: 'Quicksand', sans-serif; */
