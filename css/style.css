@@ -15,7 +15,9 @@
 .nav-logo {
    width: 25%;
    display: flex;
+   align-items: center;
 }
+
 .nav-logo img{
    width: 60px;
    margin: auto 0;
@@ -108,6 +110,11 @@
    position: relative;
 }
 
+
+
+
+
+
 /* 
 Secion de busqueda global
 */
@@ -146,6 +153,21 @@ Secion de busqueda global
    height: 20px;
    padding-right: 10px;
 }
+/***page buscar.html***/
+.contain-busqueda .btn {
+   display: flex;
+   justify-content: flex-end;
+}
+.btn input{
+   margin-top: 10px;
+   height: 33px;
+   width: 120px;
+}
+
+
+
+
+
 
 /* 
 cards documentacion
