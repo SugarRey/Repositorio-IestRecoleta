@@ -221,3 +221,18 @@ contenedores de area
 .card-area p{
    margin: 40px 10px;
 }
+
+/* Contenido de la informacion  */
+.contain-inf{
+   border-radius: 4px;
+   border: 1px solid var(--color-box);
+   border-left: 6px solid var(--color-box);
+   padding: 30px;
+   background-color: #DFE8FF;
+}
+.contain-inf p{
+   color: var(--color-box);
+   font-weight: 600;
+   
+   margin-top: 10px;
+}
