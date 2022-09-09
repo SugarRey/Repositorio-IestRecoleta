@@ -33,7 +33,8 @@
    align-items: center;
    padding-top: 20px;
 }
-.navegacion-social, .inform-repositorio{
+.navegacion-social, 
+.inform-repositorio{
    display: flex;
    justify-content: flex-end;
    align-items: center;
@@ -233,6 +234,63 @@ contenedores de area
 .contain-inf p{
    color: var(--color-box);
    font-weight: 600;
-   
    margin-top: 10px;
+   font-size: 14px;
+}
+
+
+/*
+Contenido del footer
+####################3#####
+*/
+.content-footer{
+   background-color: var(--color-box);
+   margin-top: 40px;
+   padding: 30px 0;
+}
+.cont-f, 
+.section-logo div, 
+.section-nav,
+.content-foot{
+   display: flex;
+   flex-direction: row;
+}
+.section-logo h1, 
+.section-logo p, 
+.section-nav h4,
+.section-nav ul li,
+.section-nav ul li a{
+   color: #fff;
+}
+.section-logo p, .section-nav h4, .section-nav ul li {
+   font-size: 14px;
+}
+.section-logo{
+   width: 35%;
+}
+.section-logo, .section-logo div {
+   align-items: center;
+}
+.section-logo p{
+   margin-top: 10px;
+}
+
+.section-nav{
+   width: 65%;
+   justify-content: space-between;
+}
+.content-foot{
+   align-items: flex-start;
+   margin-top: 15px;
+}
+.content-foot img{
+   /* border: 1px solid #fff; */
+   height: 20px;
+   padding-right: 15px;
+}
+.content-foot ul{
+   list-style: none;
+   border-left: 1.5px solid #fff;
+   height: 75px;
+   padding-left: 15px;
 }
