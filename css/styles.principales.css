@@ -1,7 +1,10 @@
 :root{
    --color-principal: #FDBE33;
 
+   --color-box: #1F4794;
    --color-text: #030F27;
+
+   --color-text-subtitle: #707070;
 }
 
 *{

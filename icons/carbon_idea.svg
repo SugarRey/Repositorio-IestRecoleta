@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29" height="30" viewBox="0 0 29 30">
+  <g id="carbon_idea" transform="translate(-1)">
+    <g id="Grupo_9" data-name="Grupo 9">
+      <path id="Trazado_2" data-name="Trazado 2" d="M1,14.5A14.5,14.5,0,0,1,15.5,0h0A14.5,14.5,0,0,1,30,14.5v1A14.5,14.5,0,0,1,15.5,30h0A14.5,14.5,0,0,1,1,15.5Z" fill="#1f4794"/>
+      <g id="Grupo_8" data-name="Grupo 8">
+        <path id="Trazado_3" data-name="Trazado 3" d="M11.85,20.906h7.685v1.537H11.85Z" fill="#dfe8ff"/>
+        <path id="Trazado_4" data-name="Trazado 4" d="M13.387,23.98H18v1.537H13.387Z" fill="#dfe8ff"/>
+        <path id="Trazado_5" data-name="Trazado 5" d="M15.692,4a7.685,7.685,0,0,0-7.685,7.684,7.062,7.062,0,0,0,2.659,5.856c.768.715,1.183,1.122,1.183,1.829h1.537A3.9,3.9,0,0,0,11.7,16.4a5.533,5.533,0,0,1-2.159-4.718,6.148,6.148,0,0,1,12.3,0A5.533,5.533,0,0,1,19.673,16.4,3.907,3.907,0,0,0,18,19.369h1.537c0-.707.407-1.114,1.183-1.837a7.055,7.055,0,0,0,2.659-5.848A7.685,7.685,0,0,0,15.692,4Z" fill="#dfe8ff"/>
+      </g>
+    </g>
+  </g>
+</svg>
