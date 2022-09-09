@@ -145,11 +145,12 @@
 cards documentacion
 */
 
-.contai-documentation{
+.contain-documentation{
    display: flex;
    justify-content: space-between;
+   
 }
-.contai-documentation .card-doc{
+.contain-documentation .card-doc{
    display: flex;
    border: 1px solid #1F4794;
    border-radius: 4px;
