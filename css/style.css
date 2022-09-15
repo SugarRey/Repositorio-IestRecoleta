@@ -118,14 +118,35 @@
 /* 
 Secion de busqueda global
 */
+.posicion-busqueda{
+   position: relative;
+   top: -90px;
+}
 .contain-busqueda{
    background-color: #F5F7FC;
    border-radius: 4px;
    border: 1px solid #D7D8D9;
    padding: 30px;
-   position: relative;
-   top: -90px;
+   
 }
+/*
+?pagina  buscar.html
+*seccion slider buscar input
+**/
+.posicion-busqueda_pb{
+   margin: 40px 0;
+}
+.content-subtitle-br{
+   margin-bottom:40px;
+}
+.content-resultado{
+   display: flex;
+
+}
+
+/* 
+?=========================
+*/
 .contain-busqueda h3{
    color: var(--color-text-subtitle);
 }
@@ -153,7 +174,13 @@ Secion de busqueda global
    height: 20px;
    padding-right: 10px;
 }
-/***page buscar.html***/
+
+
+/*
+?pagina  buscar.html
+*Boton  buscar input
+**/
+
 .contain-busqueda .btn {
    display: flex;
    justify-content: flex-end;
@@ -162,6 +189,10 @@ Secion de busqueda global
    margin-top: 10px;
    height: 33px;
    width: 120px;
+   background-color: var(--color-principal);
+   border: none;
+   border-radius: 4px;
+   color: var(--color-text);
 }
 
 
